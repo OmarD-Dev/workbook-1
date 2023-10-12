@@ -81,4 +81,5 @@ public class MathApp {
         scanner.nextLine();
         return value;
     }
+
 }
